@@ -1,3 +1,16 @@
 RealChess Design Docs
 
 - Nathan Gavin
+
+
+Premise:
+
+Build a chess game, but replace standard pieces with groups of units inspired from
+total war games. Then develop the animations such that the "troops" move more 
+realistically between eachother. From that point, modify the rules of the game so
+that the interactions between units are more realistic as well.
+
+Process for achieving goal:
+
+build poc just using javascript, just the step of replacing pieces with units.
+
