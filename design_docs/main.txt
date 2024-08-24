@@ -14,3 +14,10 @@ Process for achieving goal:
 
 build poc just using javascript, just the step of replacing pieces with units.
 
+Concepts:
+
+* Game runs in real time.
+* each piece has a cooldown on being moved
+* each piece has "damage" squares that it performs actions on
+* each piece performs actions over time on its damage squares
+
